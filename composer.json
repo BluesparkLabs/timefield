@@ -21,6 +21,7 @@
     }
   ],
   "require": {
-    "fgelinas/timepicker": "~1.0"
+    "fgelinas/timepicker": "~1.0",
+    "drupal/libraries": "~3.0"
   }
 }
