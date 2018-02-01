@@ -1,4 +1,10 @@
 {
+  "name": "bluespark/timefield",
+  "description": "Provides a time field that integrates with jquery time picker.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/bluesparklabs/timefield.git",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
   "repositories": [
     {
       "type"    : "package",
